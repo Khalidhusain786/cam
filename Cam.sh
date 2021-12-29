@@ -1,7 +1,7 @@
 #!/bin/bash
 # CamPhish v1.5
 # Powered by Khalid
-# Credits goes to thelinuxchoice [github.com/thelinuxchoice/]
+# Credits goes to thelinuxchoice [Techchipnet/]
 
 trap 'printf "\n";stop' 2
 
